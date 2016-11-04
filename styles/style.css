@@ -107,23 +107,6 @@
     font-style: bold;
 
 }
-/*#columns {
-  -webkit-columns: 2;
-  -moz-columns: 2;
-  columns: 2;
-  -webkit-column-gap: 3em;
-  -moz-column-gap: 3em;
-  column-gap: 3em;
-  -webkit-column-rule: 1em dotted #777;
-  -moz-column-rule: 1em dotted #777;
-  column-rule: 1em dotted #777;
-}*/
-/*#columns{
-    margin-left: 20%;
-    margin-right: 20%;
-    font-family: Arial;
-    font-size: 1em;
-}*/
 
 #articleactualite1{
     margin-left: 20%;
@@ -139,10 +122,6 @@
     width: 90%;
 }
 
-/*#column2{
-    margin-left: 50%;
-
-}*/
 
 #photo3{
     width: 90%;
@@ -201,26 +180,3 @@ ul {
   list-style-type:none;
   color: black;
  }
-/*
-ul li a {
- display:block; 
- float:right;  
- width:142px;
- background-color:#6495ED;
- color:black;
- text-decoration:none;
- text-align:center;
- padding:5px;
- border:2px solid;
- /*pour avoir un effet "outset" avec IE :
- border-color:#DCDCDC #696969 #696969 #DCDCDC;
--moz-border-radius:7px;
--webkit-border-radius:7px;
-border-radius:7px;
-}*/
- /*
-ul li a:hover {
- background-color:#D3D3D3;
- border-color:#696969 #DCDCDC #DCDCDC #696969;
- } */
-
